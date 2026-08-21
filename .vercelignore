@@ -1,0 +1,16 @@
+.openai/
+app/
+build/
+db/
+drizzle/
+examples/
+node_modules/
+out/
+tests/
+worker/
+drizzle.config.ts
+vite.config.ts
+public/favicon.svg
+public/file.svg
+public/globe.svg
+public/window.svg
