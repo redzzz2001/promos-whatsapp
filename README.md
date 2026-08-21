@@ -1,16 +1,5 @@
 # TechPromos & ModaAchadinhos
 
-Landing page mobile-first para divulgar dois grupos de promoções no WhatsApp.
+Landing page simples e responsiva para divulgar dois grupos de promoções no WhatsApp.
 
-## Rodar localmente
-
-```bash
-npm install
-npm run dev
-```
-
-## Gerar a versão de produção
-
-```bash
-npm run build
-```
+O projeto usa somente HTML, CSS e JavaScript. Para abrir localmente, basta abrir o arquivo `index.html` no navegador.
